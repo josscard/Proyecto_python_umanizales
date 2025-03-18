@@ -1,0 +1,44 @@
+'''
+
+
+Una universidad lo ha contratado a usted para realice el software académico de la institución
+
+Usted deberá realizar un programa que permita:
+    - Registrar asignaturas, cada asignatura debe tener: nombre, cantidad de créditos y costo por cada crédito
+    - Registrar estudiantes a cada asignatura, cada estudiante debe tener: género, edad, estrato, nombre
+    Tenga en cuenta que:
+        - Para los estudiantes de estrato 1 hay un descuento del 50% en el costo de los créditos
+        - Para los estudiantes de estrato 2 hay un descuento del 30% en el costo de los créditos
+        - Para los estudiantes de estrato 3 hay un descuento del 10% en el costo de los créditos
+
+    - El sistema debe mostrar la siguiente información:
+        - Cuantos estudiantes hay matriculados en cada asignatura
+        - Cual asignatura recaudó más dinero por concepto de matrícula
+        - Promedio de costos de los créditos de todas las asignaturas
+        - Calcular el valor total de los descuentos de un estrato dado. Es decir, el usuario
+        pueden ingresar un estrato ya sea 1, 2 o 3 y el sistema debe informarle cuanto dinero en total
+        se ha otorgado a los estudiantes que pertenecen a este estrato
+        - El sistema debe informar cuantos estudiantes de estrato 1 hay en cada asignatura
+        - El sistema debe indicar el valor total de dinero recaudado entre todas las asignaturas
+
+Restricciones:
+    - Se debe utilizar lo visto hasta ahora en clase:
+        - Variables
+        - Entrada y salida de datos
+        - Estructuras de control: if, else, elif
+        - Estructuras de repetición: for, while
+        - Manejo de errores: try, except, validaciones de entrada de datos: números, valores negativos, etc.
+        - Funciones
+    - No se pueden poner comentarios en el código
+    - El proyecto debe estar en GitHub
+    - El proyecto debe estar en Python
+    - Se debe realizar de forma individual, no se aceptan grupos
+    - Fechas de entrega, sustentación y asesoría:
+        - Asesoría: 12 de marzo del 2025. Deben traer trabajo adelantado para la asesoría
+        - El programa debe estar terminado y subido a GitHub el día 18 de marzo del 2025. Se califica puntualidad en esta fecha
+         de entrega. Cada dia de retraso baja 1 unidad en la calificación final
+        - Fecha de entrega y sustentación individual: 19 de marzo del 2025
+    - Porcentajes de calificación:
+        - 40%: Código funcionando
+        - 60%: Sustentación. La sustentación puede ser un parcial relacionado con el el proyecto realizado, por ejemplo: agregar
+        funcionalidades al proyecto como calcular un promedio de edad de los pasajeros, agregar validaciones, etc.'''
